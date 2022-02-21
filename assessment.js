@@ -88,3 +88,4 @@ function assessment(userName) {
 }
 
 //テストコード
+console.log(assessment('太郎'));
